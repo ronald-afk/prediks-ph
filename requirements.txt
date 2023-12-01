@@ -1,4 +1,4 @@
-package2==version2
+
 numpy
 pandas
 streamlit
